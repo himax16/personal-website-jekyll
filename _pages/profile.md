@@ -15,8 +15,7 @@ classes: wide
   * himawan [at] winarto.net
   * hwinarto [at] (princeton.edu **OR** pppl.gov **OR** permiasnasional.com)
 * **Office**:
-  * 025B Peyton Hall, Princeton University
-  * S217 Princeton Plasma Physics Laboratory
+  * _Online_ (by appointment)
 
 ## Education
 
