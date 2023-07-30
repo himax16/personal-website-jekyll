@@ -1,13 +1,14 @@
 ---
-title: "Projects"
+title: "Activities"
 layout: single
-permalink: /projects/
+permalink: /activities
 redirect_from:
   - /portofolio
+  - /projects
 author_profile: true
 classes: wide
 
 ---
-## Current Projects
+## Current Activities
 
-## Past Projects
+## Past Activities
