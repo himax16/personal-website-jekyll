@@ -7,6 +7,7 @@ redirect_from:
   - /resume
   - /cv
 classes: wide
+last_modified_at: 2023-11-13
 ---
 
 ## Personal Information

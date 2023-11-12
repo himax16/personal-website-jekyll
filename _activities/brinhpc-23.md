@@ -1,12 +1,12 @@
 ---
-title: "Gunpla Making Class (*Winter 2023*)"
+title: "BRIN HPC Workshop 2023"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/2023/07/gunpla-23-header.jpg
-  caption: "Situation during the class."
+  # overlay_color: "#000"
+  # overlay_filter: "0.5"
+  # overlay_image: /assets/images/2023/07/gunpla-23-header.jpg
+  # caption: "Situation during the class."
   # teaser: /assets/images/2023/07/gunpla-23-poster.png
-excerpt: 'As part of the Wintersession 2023 offerings at Princeton, I facilitated a class titled **"Gunpla 101: Assembling Your First Plastic Model."**'
+excerpt: ''
 sidebar:
   - title: "Event date"
     image: /assets/images/2023/07/gunpla-23-poster.png
