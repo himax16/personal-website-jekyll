@@ -20,7 +20,8 @@ classes: wide
 ## Education
 
 * **Ph.D. Candidate**\
-  Program in Plasma Physics, _Princeton University_
+  Program in Plasma Physics, _Princeton University_, expected in Summer 2024\
+  Advisor: Prof. Matthew W. Kunz
   * **Master of Arts (M.A.)** awarded in September 2020
 
 * **Bachelor of Arts (A.B.)**\
@@ -50,6 +51,10 @@ classes: wide
 
 ## Conference Attended
 
+* **7th AAPPS DPP Asia-Pacific Conference on Plasma Physics** [Nagoya, Japan] (_2023_)
+  _Reconnection and Resistivity in Collisionless High-Beta Plasmas_
+* **65th APS DPP Annual Meeting** [Denver, CO, USA] (_2023_)\
+  _Effects of Pressure-Anisotropy-Driven Instabilities on the Electrical Resistivity of Collisionless, High-Beta Plasmas_
 * **64th APS DPP Annual Meeting** [Spokane, WA, USA] (_2022_)\
   _Electrical Resistivity of Collisionless, High-Beta Plasmas_
 * **13th Plasma Kinetics Working Meeting** [Vienna, Austria] (_2022_)\
