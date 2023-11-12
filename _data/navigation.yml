@@ -8,6 +8,8 @@ main:
   #   url: /tutorials/
   - title: "Blog"
     url: /blog/
+  - title: "Resume"
+    url: /assets/files/winarto_resume_231012.pdf
 
   # - title: "Sample Collections"
   #   url: /collection-archive/

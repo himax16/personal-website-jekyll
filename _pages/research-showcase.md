@@ -1,18 +1,19 @@
 ---
-title: "Activities"
+title: "Research"
 layout: showcase
-permalink: /activities
+permalink: /research
 redirect_from:
-  - /portofolio
+  - /study
+  - /projects
 classes: wide
-collection: activities
+collection: research
 showcase:
-- title: Current Activities
+- title: Current Research Projects
   kind: current
   entries_layout: feature_row
   alignment: left
   alternate_alignment: true
-- title: Past Activities
+- title: Past Research Projects
   kind: past
   entries_layout: feature_row
   alignment: right
