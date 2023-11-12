@@ -1,9 +1,9 @@
 ---
 title: "Activities"
 layout: showcase
-permalink: /activities
+permalink: /activities/
 redirect_from:
-  - /portofolio
+  - /portofolio/
 classes: wide
 collection: activities
 showcase:
