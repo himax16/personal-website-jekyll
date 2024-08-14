@@ -37,6 +37,8 @@ last_modified_at: 2023-11-13
   * **APC 524**: _Software Engineering for Scientific Computing_ (_Fall 2021, Fall 2022_)
   * **PHY 503/504/513/514**: Physics Qualifying Exam Preparation Courses (_Fall 2022_)
   * **AST 552**: _General Plasma Physics II_ (_Spring 2023_)
+* **Research Assistant**  (_2017 - 2020_)\
+  Princeton Magnetorotational Instability group, Princeton University
 * **Undergraduate Teaching Assistant**
   * **Laboratory assistant**
     * **PHY 104**: _General Physics II_ (_Spring 2016_)
@@ -53,7 +55,8 @@ last_modified_at: 2023-11-13
 ## Conference Attended
 
 * **7th AAPPS DPP Asia-Pacific Conference on Plasma Physics** [Nagoya, Japan] (_2023_)
-  _Reconnection and Resistivity in Collisionless High-Beta Plasmas_
+  _Reconnection and Resistivity in Collisionless High-Beta Plasmas_\
+  Awarded *AAPPS-DPP Poster Prize*.
 * **65th APS DPP Annual Meeting** [Denver, CO, USA] (_2023_)\
   _Effects of Pressure-Anisotropy-Driven Instabilities on the Electrical Resistivity of Collisionless, High-Beta Plasmas_
 * **64th APS DPP Annual Meeting** [Spokane, WA, USA] (_2022_)\
@@ -75,13 +78,15 @@ last_modified_at: 2023-11-13
 
 * **PERMIAS Nasional**\
   _Organization of the Indonesian Students in the United States_
-  * **Director** of Academic and Research (_2022-now_)
+  * **Advisory Board Member** (_2023-now_)
+  * **President** (_2023-2024_)
+  * **Director** of Academic and Research (_2022-2023_)
   * **Co-Director** of Academic, Research, and Professional Development (_2021-2022_)
   * **Co-Director** of Academic and Research (_2020-2021_)
 * **Princeton Graduate Student Government**
-  * Assembly Representatives for Plasma Physics (_2022-now_)
+  * Assembly Representatives for Plasma Physics (_2022-2023_)
 * **Princeton Program in Plasma Physics Graduate Student Committee**
-  * Class representative (_2018-now_)
+  * Class representative (_2018-2023_)
   * Vice chair (_2021-2022_)
 * **Princeton Society of Physics Students (PSPS)**
   * Treasurer (_2015-2017_)
@@ -94,6 +99,8 @@ last_modified_at: 2023-11-13
 
 ## Achievements
 
+* Overseas Travel Grant\
+American-Indonesian Cultural & Educational Foundation to organize [BRIN High Performance Computing Workshop 2023](https://brin-hpc-workshop.github.io/).
 * Phi Beta Kappa Society (_2018_)
 * Allen G. Shenstone Prize in Physics (_2018_)
 * Kusaka Memorial Prize in Physics (_2016, 2017_)
@@ -101,5 +108,4 @@ last_modified_at: 2023-11-13
 * Absolute Winner in the 14th Asian Physics Olympiad (_2013_)\
 _Gold Medal_, _Best Experimental Result_, and highest combined score from both theoretical and experimental parts
 * Indonesian Ministry of State Enterprise Awards for Outstanding Achievements in Technology (_2013_)
-* Taruna Merah Putih Award for Prolific Youth in Education from _Partai
-Demokrasi Indonesia–Perjuangan_ (_2013_)
+* Taruna Merah Putih Award for Prolific Youth in Education from _Partai Demokrasi Indonesia–Perjuangan_ (_2013_)
