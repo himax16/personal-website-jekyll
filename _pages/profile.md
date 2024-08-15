@@ -54,6 +54,8 @@ last_modified_at: 2023-11-13
 
 ## Conference Attended
 
+* **2024 Frontera User Meeting** [Austin, TX, USA] (_2024_)
+  _Kinetic simulations of transport and turbulence in collisionless astrophysical plasmas_
 * **7th AAPPS DPP Asia-Pacific Conference on Plasma Physics** [Nagoya, Japan] (_2023_)
   _Reconnection and Resistivity in Collisionless High-Beta Plasmas_\
   Awarded *AAPPS-DPP Poster Prize*.
