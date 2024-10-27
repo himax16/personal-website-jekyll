@@ -23,7 +23,7 @@ Beyond this point, the review will contain **heavy spoiler** from the animated m
 {: .notice--warning}
 
 # Animated Movie
-The movie starts by introducing Tsuneo, our male protagonist, 
+The movie starts by introducing Tsuneo, our male protagonist,
 
 Our paraplegic female protagonist Kumiko, who prefers to be called Josee, have to use the wheelchair to get around. She lives with her grandmother (Chizu Yamamura) who takes her out in the night, hoping that it will be safer as they would not be seen by the others. One day, Kumiko's wheel chair rolled down the hill uncontrollably. Luckily our male protagonist Tsuneo happened to pass by and caught her.
 
